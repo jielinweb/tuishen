@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+.wechat-wrap {
+	text-align: center;
+    color: #595961;
+    overflow: hidden;
+    letter-spacing: 0;
+    background: #f5f5f8;
+}
+
+.wechat-wrap .title {
+    font-size: 1.8rem;
+}
+
+.wechat-wrap .detail {
+	font-size: 1.4rem;
+	line-height: 1.8rem;
+	color: #acacb7;
+}
+
+.wechat-wrap .content-img {
+	display: block;
+	width: 100%;
+	height: auto;
+	margin: 30px auto 40px;
+}
+
+.wechat-wrap .wechat-list {
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+
+.wechat-wrap .wechat-list .w-flex {
+	font-size: 0;
+	float: left;
+	width: 46%;
+	height: 65px;
+	line-height: 65px;
+	margin-left: 2.666666%;
+	margin-bottom: 2.666666%;
+    background: #fff;
+    line-height: .4rem;
+    box-shadow: 0 0.13333rem 0.26667rem 0 rgba(0,0,0,.05);
+	border-radius: .26667rem;
+	text-align: left;
+}
+
+.wechat-wrap .wechat-list .w-flex .icon {
+	display: inline-block;
+	margin: 7px 10px 0;
+    width: 51px;
+    height: 51px;
+    background: url(../img/f2_icon.png) no-repeat center;
+	background-size: 100% auto;
+}
+
+.wechat-wrap .wechat-list .w-flex .icon1 {
+	background-position: 0 0;
+}
+
+.wechat-wrap .wechat-list .w-flex .icon2 {
+	background-position: 0 -56px;
+}
+
+.wechat-wrap .wechat-list .w-flex .icon3 {
+	background-position: 0 -112px;
+}
+
+.wechat-wrap .wechat-list .w-flex .icon4 {
+	background-position: 0 -168px;
+}
+
+.wechat-wrap .wechat-list .w-flex .text {
+	display: inline-block;
+	height: 16px;
+	line-height: 16px;
+	font-size: 1.6rem;
+    color: #595961;
+	position: relative;
+    bottom: 21.5px;
+}
+
+.wechat-wrap .logo-list {
+	overflow: hidden;
+}
+
+.wechat-wrap .logo-list .logo {
+	float: left;
+	width: 33.333333%;
+	margin-bottom: 15px;
+    height: 62px;
+    background: url(../img/xcx2_f7_logo.png) no-repeat center;
+    background-size: 60% auto;
+}
+
+.wechat-wrap .logo-list .logo1 {
+	background-position: center 0;
+}
+
+.wechat-wrap .logo-list .logo2 {
+	background-position: center -82.5px;
+}
+
+.wechat-wrap .logo-list .logo3 {
+	background-position: center -158px;
+}
+
+.wechat-wrap .logo-list .logo4 {
+	background-position: center -325px;
+}
+
+.wechat-wrap .logo-list .logo5 {
+	background-position: center -402.5px;
+}
+
+.wechat-wrap .logo-list .logo6 {
+	background-position: center -485px;
+}
+
+.wechat-wrap .logo-list .logo7 {
+	background-position: center -570px;
+}
+
+.wechat-wrap .logo-list .logo8 {
+	background-position: center -655px;
+}
+
+.wechat-wrap .logo-list .logo9 {
+	background-position: center -735px;
+}
+
+.wechat-wrap .logo-list .logo10 {
+	background-position: center -815px;
+}
+
+.wechat-wrap .logo-list .logo11 {
+	background-position: center -895px;
+}
+
+.wechat-wrap .logo-list .logo12 {
+	background-position: center -975px;
+}
+

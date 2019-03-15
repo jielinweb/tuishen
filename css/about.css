@@ -1,0 +1,246 @@
+.general {
+	width: 100%;
+	margin: 0 auto;
+	background: #fff;
+	padding: 1rem 0;
+	line-height: 1.5;
+}
+
+.general_con {
+	margin: 0 auto;
+	text-align: center;
+	line-height: 24px;
+}
+
+.general_title {
+	font-size: 34px;
+	font-family: "微软雅黑";
+	text-align: center;
+	margin: 0 auto;
+	line-height: 40px;
+}
+
+.general_title table {
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+.general_title table td, .general_title table {
+	text-align: center;
+}
+
+.general_con_c_ri {
+	text-align: left;
+}
+
+.general_con_c_ri_title {
+	color: #ccc;
+	font-size: 1.6rem;
+	font-family: "微软雅黑";
+	margin-bottom: 30px;
+	padding: 0 1rem;
+}
+
+.general_con_c_ri_word {
+	color: #666;
+	line-height: 1.5;
+	padding: 0 1rem;
+}
+
+.general_con_c_ri_int {
+	padding-top: 15px;
+	color: #999;
+	font-size: 14px;
+	font-family: "微软雅黑";
+}
+
+.general2 {
+	width: 100%;
+	margin: 0 auto;
+	background: #f6f6f6;
+	padding: 40px 0;
+}
+
+.general_con_c_le2 {
+	text-align: left;
+}
+
+.what {
+	font-size: 26px;
+	font-family: "微软雅黑";
+	background: #4bcdd9;
+	width: 200px;
+	height: 40px;
+	color: #fff;
+	line-height: 40px;
+	padding-left: 20px;
+	margin-bottom: 1rem;
+}
+
+.what_int {
+	color: #999;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	padding: 10px 20px;
+}
+
+.what_A {
+	width: 275px;
+}
+
+.what_name {
+	padding: 10px 0;
+}
+
+.what_name_ch {
+	font-family: "微软雅黑";
+	font-size: 18px
+}
+
+.what_name_en {
+	font-family: Arial;
+	font-size: 14px;
+	color: #999
+}
+
+.what_B {
+	width: 180px
+}
+
+.what_C {
+	width: 200px
+}
+
+.what_D {
+	width: 275px
+}
+
+.what_con ul li {
+	float: left;
+	margin-right: 30px
+}
+
+.general_con_c_ri_ad {
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #666;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	line-height: 1.5;
+	text-align: left;
+	padding: 10px;
+	font-size: 1.4rem;
+}
+
+.general_con_c_ri_ad span {
+	color: #ffba19
+}
+
+.certificate_ul {
+	height: 220px;
+	margin-bottom: 20px;
+	width: 1200px
+}
+
+.certificate_ul ul {
+	height: 212px
+}
+
+.certificate_ul ul li {
+	float: left;
+	position: relative;
+	height: 212px;
+	width: 280px;
+	_display: inline;
+	overflow: hidden
+}
+
+.certificate_img {
+	margin-right: 24px
+}
+
+.jion_mail {
+	margin-top: 10px
+}
+
+.jion_title {
+	border-bottom: solid 1px #eee;
+	margin-bottom: 10px
+}
+
+.jion_title_en {
+	color: #4bcdd9;
+	font-family: Impact;
+	font-size: 20px;
+	text-transform: uppercase
+}
+
+.jion_title_ch {
+	font-family: "微软雅黑";
+	font-size: 28px;
+	padding: 5px 0 8px 0
+}
+
+.skill {
+	width: 560px;
+	height: 55px;
+	background: #eaeaea;
+	padding: 10px 20px;
+	margin-top: 5px
+}
+
+.skill_word {
+	font-family: Arial;
+	text-transform: uppercase
+}
+
+.skill ul li {
+	float: left;
+	margin-right: 5px
+}
+
+.general_con_c_ri ul li {
+	margin-bottom: 30px
+}
+
+.box2 {
+	text-align: left;
+	padding: 2rem 1rem;
+	line-height: 1.5;
+}
+
+.box32 {
+	text-align: center;
+}
+
+.box4 {
+	text-align: left;
+	font-size: 1.4rem;
+	margin-top: 2rem;
+	padding: 10px;
+}
+
+.box5 {
+	padding-top: 25px;
+}
+
+.box_b {
+	position: absolute;
+	bottom: -205px;
+	left: 0px;
+}
+
+.box6 {
+	width: 600px;
+	height: 235px;
+	margin-left: -600px;
+	padding-top: 30px;
+}
+
+.boxneral_title {
+	background: url(img/tit_linebg.gif) no-repeat center 0;
+	font-size: 2rem;
+	font-family: "微软雅黑";
+	text-align: center;
+	margin: 0 auto 1rem;
+}

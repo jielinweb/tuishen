@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+/*------------重置标签样式开始-----------------------------------------------------------------------------------*/
+body,html{font-family:微软雅黑,'Microsoft YaHei','Hiragino Sans GB',Helvetica,Arial,'Lucida Grande',sans-serif;}
+*{padding:0;margin:0;color:#333333;font-size:18px;font-family:微软雅黑,"arial","Microsoft YaHei","Helvetica Neue";font-size:16px;}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video,input {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	font-family:微软雅黑,"arial","Microsoft YaHei","Helvetica Neue";
+}
+html{font-size:62.5%;} 
+body{font-size:14px;font-size:1.4rem ;} 
+input {font-family:微软雅黑,"arial","Microsoft YaHei","Helvetica Neue";-webkit-appearance:none;}
+input[type=radio]{-webkit-appearance:radio;}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, main {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul,li{
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a{text-decoration:none;outline:none;-webkit-outline:none;}
+a:focus,textarea:focus,input:focus{outline:none;-webkit-outline:none}
+a,button,input[type=button],input[type=submit]{cursor:pointer;}
+/*textarea:focus,input:focus{outline:1px solid yellow;}*/
+a:hover{text-decoration:none;cursor:pointer;}
+img{display:inline-block;border:none;max-width:100%;max-height:100%;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+.clear{zoom:1;}
+.clear:after{content:'';display: block;height: 0;clear: both;}
+.fl{float:left;}
+.fr{float:right;}
+.tc{text-align:center;}
+/*.icon{background: url(../img/mainbg.png) no-repeat;}*/
+
+/*------------重置标签样式结束-----------------------------------------------------------------------------------*/
